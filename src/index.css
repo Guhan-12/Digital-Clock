@@ -1,0 +1,10 @@
+.clock-container {
+  background-color: hsl(63, 79%, 87%);
+  color: rgb(238, 89, 121);
+  text-align: center;
+  border: 10px 10px wheat;
+  font-family: arial;
+  font-size: 100px;
+  display: inline-block;
+  padding: 50px;
+}
